@@ -1,8 +1,7 @@
 <p align="center">
   <samp>
-    <a href="https://www.linkedin.com/in/saminarp/">Linkedln |</a>
-    <a href="https://dev.to/saminarp">Dev.to |</a>   
-    <a href="https://www.instagram.com/foam.on.latte/">Instagram</a>
+    <a href="https://www.linkedin.com/in/saminarp/">Linkedln  | </a>
+    <a href="https://dev.to/saminarp">Dev.to</a>
   </samp> 
 </p>
 
