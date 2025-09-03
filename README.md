@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-    <a href="https://foam-on-latte.beehiiv.com/">Subscribe to my newsletter! </a>
+    <a href="https://www.lonelybluepixel.com/">Subscribe to my newsletter! </a>
   </samp> 
 </p>
 
