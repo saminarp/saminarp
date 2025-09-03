@@ -4,4 +4,4 @@
   </samp> 
 </p>
 
-![atari](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+![lonelybluepixel](https://github.com/user-attachments/assets/7097c219-fb90-40b6-b8c1-543ce7d00775)
