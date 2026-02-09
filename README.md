@@ -4,5 +4,4 @@
   </samp> 
 </p>
 
-
-![super-mario-pixel-art-super-mario-kart-computer-mushroom-hd-wallpaper-preview](https://github.com/user-attachments/assets/75986841-ea94-4324-a11e-574088ea2c3d)
+![Chill Mario 2023](https://github.com/user-attachments/assets/4e9298ae-9952-4114-9396-441350069950)
