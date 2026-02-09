@@ -4,4 +4,4 @@
   </samp> 
 </p>
 
-![lonelybluepixel](https://github.com/user-attachments/assets/7097c219-fb90-40b6-b8c1-543ce7d00775)
+<img width="1536" height="1024" alt="20251109_0925_Astronaut Roasting Marshmallows_remix_01k9mfztzkehnr3kgjrbp5q3m7" src="https://github.com/user-attachments/assets/82da2183-5bc9-4d65-b6ea-36fa457ee2ec" />
